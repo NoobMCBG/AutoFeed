@@ -1,0 +1,9 @@
+name: AutoFeed
+main: NoobMCBG\AutoFeed\AutoFeed
+api: 4.0.0
+version: 1.0.0
+author: NoobMCBG
+
+permissions:
+  autofeed.commands:
+    default: op
